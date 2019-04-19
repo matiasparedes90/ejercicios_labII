@@ -1,0 +1,6 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\MisClases\bin\Debug\MisClases.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\MisClases\bin\Debug\MisClases.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\MisClases\obj\Debug\MisClases.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\MisClases\obj\Debug\MisClases.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\MisClases\obj\Debug\MisClases.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\MisClases\obj\Debug\MisClases.pdb

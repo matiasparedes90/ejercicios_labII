@@ -1,0 +1,6 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Moneda\bin\Debug\Moneda.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Moneda\bin\Debug\Moneda.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Moneda\obj\Debug\Moneda.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Moneda\obj\Debug\Moneda.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Moneda\obj\Debug\Moneda.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Moneda\obj\Debug\Moneda.pdb

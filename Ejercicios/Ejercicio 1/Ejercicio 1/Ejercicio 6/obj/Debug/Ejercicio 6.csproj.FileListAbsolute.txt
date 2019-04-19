@@ -1,0 +1,7 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\bin\Debug\Ejercicio 6.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\bin\Debug\Ejercicio 6.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\bin\Debug\Ejercicio 6.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\obj\Debug\Ejercicio 6.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\obj\Debug\Ejercicio 6.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\obj\Debug\Ejercicio 6.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 6\obj\Debug\Ejercicio 6.pdb

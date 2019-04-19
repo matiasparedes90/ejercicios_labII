@@ -1,0 +1,6 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 10\bin\Debug\Ejercicio 10.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 10\bin\Debug\Ejercicio 10.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 10\bin\Debug\Ejercicio 10.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 10\obj\Debug\Ejercicio 10.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 10\obj\Debug\Ejercicio 10.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 1\Ejercicio 1\Ejercicio 10\obj\Debug\Ejercicio 10.pdb

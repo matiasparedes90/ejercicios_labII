@@ -1,0 +1,7 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\bin\Debug\Ejercicio 12.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\bin\Debug\Ejercicio 12.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\bin\Debug\Ejercicio 12.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\obj\Debug\Ejercicio 12.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\obj\Debug\Ejercicio 12.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\obj\Debug\Ejercicio 12.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicio 11\ConsoleApp1\Ejercicio 12\obj\Debug\Ejercicio 12.pdb

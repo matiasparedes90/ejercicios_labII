@@ -1,0 +1,10 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\bin\Debug\Ejercicio 25.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\bin\Debug\Ejercicio 25.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\bin\Debug\Ejercicio 25.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio 25.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio_25.Form1.resources
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio_25.Properties.Resources.resources
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio 25.csproj.GenerateResource.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio 25.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio 25.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\Ejercicio 25\obj\Debug\Ejercicio 25.pdb

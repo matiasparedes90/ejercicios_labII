@@ -1,0 +1,13 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\bin\Debug\ConversorDinero.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\bin\Debug\ConversorDinero.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\bin\Debug\ConversorDinero.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.Form1.resources
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.Properties.Resources.resources
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.csproj.GenerateResource.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\bin\Debug\Moneda.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\bin\Debug\Moneda.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 23-25\Ejercicio 25\ConversorDinero\obj\Debug\ConversorDinero.csproj.CopyComplete

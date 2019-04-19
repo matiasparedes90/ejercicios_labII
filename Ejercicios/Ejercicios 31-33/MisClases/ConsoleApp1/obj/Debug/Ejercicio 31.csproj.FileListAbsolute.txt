@@ -1,0 +1,10 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\obj\Debug\Ejercicio 31.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\obj\Debug\Ejercicio 31.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\bin\Debug\MisClases.dll
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\bin\Debug\MisClases.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Ejercicios 31-33\MisClases\ConsoleApp1\obj\Debug\Ejercicio 31.csproj.CopyComplete

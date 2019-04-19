@@ -1,0 +1,7 @@
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\bin\Debug\Prueba.exe.config
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\bin\Debug\Prueba.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\bin\Debug\Prueba.pdb
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\obj\Debug\Prueba.csprojAssemblyReference.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\obj\Debug\Prueba.exe
+E:\Utn\Laboratorio y Programacion II\Programacion\2019\Ejercicios\Clase 5\Prueba\Prueba\obj\Debug\Prueba.pdb
